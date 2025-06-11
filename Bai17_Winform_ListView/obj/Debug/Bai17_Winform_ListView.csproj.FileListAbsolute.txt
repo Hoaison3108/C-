@@ -1,0 +1,10 @@
+D:\C#\Bai17_Winform_ListView\bin\Debug\Bai17_Winform_ListView.exe.config
+D:\C#\Bai17_Winform_ListView\bin\Debug\Bai17_Winform_ListView.exe
+D:\C#\Bai17_Winform_ListView\bin\Debug\Bai17_Winform_ListView.pdb
+D:\C#\Bai17_Winform_ListView\obj\Debug\Bai17_Winform_ListView.csproj.AssemblyReference.cache
+D:\C#\Bai17_Winform_ListView\obj\Debug\Bai17_Winform_ListView.Form1.resources
+D:\C#\Bai17_Winform_ListView\obj\Debug\Bai17_Winform_ListView.Properties.Resources.resources
+D:\C#\Bai17_Winform_ListView\obj\Debug\Bai17_Winform_ListView.csproj.GenerateResource.cache
+D:\C#\Bai17_Winform_ListView\obj\Debug\Bai17_Winform_ListView.csproj.CoreCompileInputs.cache
+D:\C#\Bai17_Winform_ListView\obj\Debug\Bai17_Winform_ListView.exe
+D:\C#\Bai17_Winform_ListView\obj\Debug\Bai17_Winform_ListView.pdb

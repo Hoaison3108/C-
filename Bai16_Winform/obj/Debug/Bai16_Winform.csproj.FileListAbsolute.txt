@@ -1,0 +1,10 @@
+D:\C#\Bai16_Winform\bin\Debug\Bai16_Winform.exe.config
+D:\C#\Bai16_Winform\bin\Debug\Bai16_Winform.exe
+D:\C#\Bai16_Winform\bin\Debug\Bai16_Winform.pdb
+D:\C#\Bai16_Winform\obj\Debug\Bai16_Winform.csproj.AssemblyReference.cache
+D:\C#\Bai16_Winform\obj\Debug\Bai16_Winform.Form1.resources
+D:\C#\Bai16_Winform\obj\Debug\Bai16_Winform.Properties.Resources.resources
+D:\C#\Bai16_Winform\obj\Debug\Bai16_Winform.csproj.GenerateResource.cache
+D:\C#\Bai16_Winform\obj\Debug\Bai16_Winform.csproj.CoreCompileInputs.cache
+D:\C#\Bai16_Winform\obj\Debug\Bai16_Winform.exe
+D:\C#\Bai16_Winform\obj\Debug\Bai16_Winform.pdb

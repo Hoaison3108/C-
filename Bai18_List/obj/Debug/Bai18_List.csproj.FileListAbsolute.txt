@@ -1,0 +1,7 @@
+D:\C#\Bai18_List\bin\Debug\Bai18_List.exe.config
+D:\C#\Bai18_List\bin\Debug\Bai18_List.exe
+D:\C#\Bai18_List\bin\Debug\Bai18_List.pdb
+D:\C#\Bai18_List\obj\Debug\Bai18_List.csproj.AssemblyReference.cache
+D:\C#\Bai18_List\obj\Debug\Bai18_List.csproj.CoreCompileInputs.cache
+D:\C#\Bai18_List\obj\Debug\Bai18_List.exe
+D:\C#\Bai18_List\obj\Debug\Bai18_List.pdb
