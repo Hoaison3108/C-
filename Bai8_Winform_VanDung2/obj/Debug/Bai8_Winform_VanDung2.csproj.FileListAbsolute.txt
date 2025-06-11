@@ -1,0 +1,10 @@
+D:\C#\Bai8_Winform_VanDung2\bin\Debug\Bai8_Winform_VanDung2.exe.config
+D:\C#\Bai8_Winform_VanDung2\bin\Debug\Bai8_Winform_VanDung2.exe
+D:\C#\Bai8_Winform_VanDung2\bin\Debug\Bai8_Winform_VanDung2.pdb
+D:\C#\Bai8_Winform_VanDung2\obj\Debug\Bai8_Winform_VanDung2.csproj.AssemblyReference.cache
+D:\C#\Bai8_Winform_VanDung2\obj\Debug\Bai8_Winform_VanDung2.Form1.resources
+D:\C#\Bai8_Winform_VanDung2\obj\Debug\Bai8_Winform_VanDung2.Properties.Resources.resources
+D:\C#\Bai8_Winform_VanDung2\obj\Debug\Bai8_Winform_VanDung2.csproj.GenerateResource.cache
+D:\C#\Bai8_Winform_VanDung2\obj\Debug\Bai8_Winform_VanDung2.csproj.CoreCompileInputs.cache
+D:\C#\Bai8_Winform_VanDung2\obj\Debug\Bai8_Winform_VanDung2.exe
+D:\C#\Bai8_Winform_VanDung2\obj\Debug\Bai8_Winform_VanDung2.pdb
