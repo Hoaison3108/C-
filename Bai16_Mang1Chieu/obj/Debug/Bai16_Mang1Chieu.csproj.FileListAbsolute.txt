@@ -1,0 +1,7 @@
+D:\C#\Bai16_Mang1Chieu\bin\Debug\Bai16_Mang1Chieu.exe.config
+D:\C#\Bai16_Mang1Chieu\bin\Debug\Bai16_Mang1Chieu.exe
+D:\C#\Bai16_Mang1Chieu\bin\Debug\Bai16_Mang1Chieu.pdb
+D:\C#\Bai16_Mang1Chieu\obj\Debug\Bai16_Mang1Chieu.csproj.AssemblyReference.cache
+D:\C#\Bai16_Mang1Chieu\obj\Debug\Bai16_Mang1Chieu.csproj.CoreCompileInputs.cache
+D:\C#\Bai16_Mang1Chieu\obj\Debug\Bai16_Mang1Chieu.exe
+D:\C#\Bai16_Mang1Chieu\obj\Debug\Bai16_Mang1Chieu.pdb
