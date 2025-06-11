@@ -1,0 +1,7 @@
+D:\C#\Bai_20_Ham\bin\Debug\Bai_20_Ham.exe.config
+D:\C#\Bai_20_Ham\bin\Debug\Bai_20_Ham.exe
+D:\C#\Bai_20_Ham\bin\Debug\Bai_20_Ham.pdb
+D:\C#\Bai_20_Ham\obj\Debug\Bai_20_Ham.csproj.AssemblyReference.cache
+D:\C#\Bai_20_Ham\obj\Debug\Bai_20_Ham.csproj.CoreCompileInputs.cache
+D:\C#\Bai_20_Ham\obj\Debug\Bai_20_Ham.exe
+D:\C#\Bai_20_Ham\obj\Debug\Bai_20_Ham.pdb
