@@ -1,0 +1,7 @@
+D:\C#\Bai22.3_Object\bin\Debug\Bai22.3_Object.exe.config
+D:\C#\Bai22.3_Object\bin\Debug\Bai22.3_Object.exe
+D:\C#\Bai22.3_Object\bin\Debug\Bai22.3_Object.pdb
+D:\C#\Bai22.3_Object\obj\Debug\Bai22.3_Object.csproj.AssemblyReference.cache
+D:\C#\Bai22.3_Object\obj\Debug\Bai22.3_Object.csproj.CoreCompileInputs.cache
+D:\C#\Bai22.3_Object\obj\Debug\Bai22.3_Object.exe
+D:\C#\Bai22.3_Object\obj\Debug\Bai22.3_Object.pdb
