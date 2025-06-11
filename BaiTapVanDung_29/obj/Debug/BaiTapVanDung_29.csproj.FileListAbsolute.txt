@@ -1,0 +1,7 @@
+D:\C#\BaiTapVanDung_29\bin\Debug\BaiTapVanDung_29.exe.config
+D:\C#\BaiTapVanDung_29\bin\Debug\BaiTapVanDung_29.exe
+D:\C#\BaiTapVanDung_29\bin\Debug\BaiTapVanDung_29.pdb
+D:\C#\BaiTapVanDung_29\obj\Debug\BaiTapVanDung_29.csproj.AssemblyReference.cache
+D:\C#\BaiTapVanDung_29\obj\Debug\BaiTapVanDung_29.csproj.CoreCompileInputs.cache
+D:\C#\BaiTapVanDung_29\obj\Debug\BaiTapVanDung_29.exe
+D:\C#\BaiTapVanDung_29\obj\Debug\BaiTapVanDung_29.pdb
