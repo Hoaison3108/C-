@@ -1,0 +1,7 @@
+D:\C#\Bai_21_TryCatch\bin\Debug\Bai_21_TryCatch.exe.config
+D:\C#\Bai_21_TryCatch\bin\Debug\Bai_21_TryCatch.exe
+D:\C#\Bai_21_TryCatch\bin\Debug\Bai_21_TryCatch.pdb
+D:\C#\Bai_21_TryCatch\obj\Debug\Bai_21_TryCatch.csproj.AssemblyReference.cache
+D:\C#\Bai_21_TryCatch\obj\Debug\Bai_21_TryCatch.csproj.CoreCompileInputs.cache
+D:\C#\Bai_21_TryCatch\obj\Debug\Bai_21_TryCatch.exe
+D:\C#\Bai_21_TryCatch\obj\Debug\Bai_21_TryCatch.pdb
